@@ -16,6 +16,11 @@ Let’s help each other reach financial independence by sharing books, investmen
 
 - [Text overview](https://www.hsbc.co.uk/financial-fitness/everyday-budgeting/spending-your-income/) - [Video overview](https://www.youtube.com/watch?v=jNUbhmB8zw8)
 
+### The rule of 72
+
+> In order to find out the number of cycles (usually years) in which an investment doubles in size, then you need to follow the equation: `72 / interest = no_of_cycles`. If the rate of return on your investment is 10%/year then your investment will double in size in 72 / 10 = 7.2 years! 
+
+> The "Rule of 72" is a shortcut for a more math worthy formula which yields the same result: `ln(2) / ln(1 + interest_percent) = no_cycles`, where `ln` is the natural logarithm or `log2` logarithm in base 2. No need to learn it, but it is a fun economics math formula. Example, for 10%/year interest the formula will be `ln(2) / ln(1 + 0.10) = 7.2' same number as before.
 
 ## Books 📚
 
