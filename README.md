@@ -4,7 +4,7 @@ Let’s help each other reach financial independence by sharing books, investmen
 
 ## Investing platforms 
 
-| Platform | Link |
+| Platform | Overview |
 | ------ | ------ |
 | [Vanguard](https://www.vanguardinvestor.co.uk/) | American registered platform with over 8 trillion in global assets under their management. Products incliude Mutual funds, ETF's and Broker Asset management. |
 
